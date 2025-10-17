@@ -42,7 +42,7 @@ NRB Corporation เป็นบริษัทเทคโนโลยีที�
 ---
 
 ### 🌈 Follow Us
-[🌐 Website](https://nrb-corporation.pages.dev) | [📫 Contact](mailto:contact@nrb-corporation.com) | [💼 LinkedIn](https://linkedin.com/company/nrb-corporation)
+[🌐 Website](https://nrb-corporation.pages.dev) | [📫 Contact](mailto:nrbc.corporation@gmail.com) | [💼 LinkedIn](https://linkedin.com/company/nrb-corporation)
 
 ---
 
