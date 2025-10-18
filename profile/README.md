@@ -41,6 +41,16 @@ NRB Corporation เป็นบริษัทเทคโนโลยีที�
 
 ---
 
+### 📇 Contact Member Team
+
+| ตำแหน่ง | ชื่อ / อีเมลติดต่อ |
+|-----------|---------------------|
+| 🎨 Frontend Developer | [James Chanakarn](mailto:jameschanakarn@gmail.com) |
+| ⚙️ Backend Developer | [Blue Phakhawat](mailto:bluephakhawat@gmail.com) |
+| 🚀 CI/CD & DevOps Engineer | [Nattakan Phimmarach](mailto:nattakan.phim@gmail.com) |
+
+---
+
 ### 🌈 Follow Us
 [🌐 Website](https://nrb-corporation.pages.dev) | [📫 Contact](mailto:nrbc.corporation@gmail.com) | [💼 LinkedIn](https://linkedin.com/company/nrb-corporation)
 
