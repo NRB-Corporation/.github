@@ -1,5 +1,3 @@
-<!-- NRB Corporation - Organization Profile -->
-
 <p align="center">
   <img src="./banner.png" alt="NRB Corporation Banner" width="100%">
 </p>
